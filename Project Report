@@ -1,0 +1,12 @@
+Project Name: Online Banking System
+Project Description: The Online Banking System project aims to automate the various functions and activities of a bank through the internet. It consists of two panels – one for the admin and one for the user. The user can perform banking transactions online and the project includes different modules such as account status, account opening, change password, payee management, and view statement. The project will facilitate both bank employees and customers.
+Modules Explanation:
+1.	Account Status: This module will allow the user to check the status of their account. Users can view their account balance, transaction history, and other related information. This module will be accessible through the user panel.
+2.	Account Opening: This module allows new customers to create an account with the bank. Users can fill out an online form with their personal information and upload any necessary documents. The bank will then review and approve the account opening request. This module will be accessible through the user panel.
+3.	Change Password: This module allows users to change their account password. Users will be prompted to enter their current password, followed by their new password. This module will be accessible through both the admin and user panels.
+4.	Payee Management: This module allows users to manage their payees or beneficiaries. Users can add, delete, or modify payees, and can also set payment limits. This module will be accessible through the user panel.
+5.	View Statement: This module will allow users to view their bank statements online. Users can view their statements for a specific period, and can also download or print them if required. This module will be accessible through the user panel.
+Conclusion: The Online Banking System project is a web-based application that facilitates online banking transactions. It includes different modules such as account status, account opening, change password, payee management, and view statement. The project will be developed using C programming language and MySQL database. It will provide a secure and efficient way for bank employees and customers to perform banking transactions online.
+
+
+
